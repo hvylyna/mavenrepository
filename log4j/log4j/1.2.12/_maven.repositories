@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 21:56:49 CET 2016
+log4j-1.2.12.jar>central=
+log4j-1.2.12.pom>central=
+log4j-1.2.12.jar>playtech.mirror=
+log4j-1.2.12.pom>playtech.mirror=
