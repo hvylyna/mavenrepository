@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 14:43:21 CET 2017
+b86aaa38f4957169b4955ae71e21908d55f41073@default-https\://nexus.playtech.corp/nexus/content/groups/pt-releases/.lastUpdated=1487166201135
+https\://nexus.playtech.corp/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.mojo\:exec-maven-plugin\:pom\:1.2.1 from/to playtech.mirror (https\://nexus.playtech.corp/nexus/content/groups/public)\: nexus.playtech.corp
+default-https\://nexus.playtech.corp/nexus/content/groups/public/.lastUpdated=1487166201192
+https\://nexus.playtech.corp/nexus/content/groups/pt-releases/.error=Could not transfer artifact org.codehaus.mojo\:exec-maven-plugin\:pom\:1.2.1 from/to pt-releases (https\://nexus.playtech.corp/nexus/content/groups/pt-releases)\: nexus.playtech.corp

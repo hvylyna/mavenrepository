@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jan 15 18:48:09 CET 2017
+https\://nexus.playtech.corp/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-eclipse-plugin\:pom\:2.9 from/to playtech.mirror (https\://nexus.playtech.corp/nexus/content/groups/public)\: nexus.playtech.corp
+@default-playtech.mirror-https\://nexus.playtech.corp/nexus/content/groups/public/.lastUpdated=1484502489144
+https\://nexus.playtech.corp/nexus/content/groups/pt-releases/.error=Could not transfer artifact org.apache.maven.plugins\:maven-eclipse-plugin\:pom\:2.9 from/to pt-releases (https\://nexus.playtech.corp/nexus/content/groups/pt-releases)\: nexus.playtech.corp
+4d34b17dc67e10ba38f74da9d1c1a0e17b65cfcb@default-pt-releases-https\://nexus.playtech.corp/nexus/content/groups/pt-releases/.lastUpdated=1484502489121

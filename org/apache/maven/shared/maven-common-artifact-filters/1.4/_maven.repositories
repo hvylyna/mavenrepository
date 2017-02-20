@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 23 17:50:55 EET 2016
+maven-common-artifact-filters-1.4.jar>central=
+maven-common-artifact-filters-1.4.pom>central=
+maven-common-artifact-filters-1.4.jar>playtech.mirror=
+maven-common-artifact-filters-1.4.pom>playtech.mirror=
